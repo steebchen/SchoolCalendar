@@ -12,6 +12,4 @@ Aktuelle Funktionen
 Geplante Funktionen
 ----------------------
 
-- Klassenarbeiten
-- Hausaufgaben
-- und vieles mehr...
+- Auch nichts...
